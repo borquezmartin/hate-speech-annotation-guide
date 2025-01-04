@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Annotation Guidelines: Hate Speech Groups and Offensive Denominations"
+author: "Martín Bórquez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
