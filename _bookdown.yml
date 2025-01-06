@@ -3,6 +3,10 @@ output_dir: docs
 delete_merged_file: true
 edit: https://github.com/borquezmartin/hate-speech-annotation-guide/edit/main/%s
 view: https://github.com/borquezmartin/hate-speech-annotation-guide/blob/main/%s
+rmd_files:
+  - index.Rmd
+  - 01-base.Rmd
+  - 02-specific.Rmd
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: ""

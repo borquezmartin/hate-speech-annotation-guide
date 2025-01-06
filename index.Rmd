@@ -1,9 +1,29 @@
 --- 
 title: "Annotation Guidelines: Hate Speech Groups and Offensive Denominations"
-author: "Martín Bórquez"
+author: "Martín Bórquez, Marcelo Mendoza, Andres Carvallo, Diego Varela, Miguel Fernandez, Max Ojeda, Lilly Guevara, Nicolás Buzeta"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
+# Introduction
 
-# Down the rabbit-hole
+Este documento presenta un conjunto de criterios específicos para la tarea de anotación y curatoria de grupos y denominaciones ofensivas para en discursos de odio. Este trabajo se encuentra en el marco de la investigación de detección de discursos de odio de Carvallo et al. (2025). 
 
+El propósito del documento es que cada anotación pueda estar respaldada por uno o más criterios dentro de este documento. De tal manera que la anotación tenga la confianza de los argumentos y referencias citadas en este documento. Para aquello, existen algunos criterios base y otros específicos. 
+
+Los criterios fueron creados con base al conocimiento disponible en la literatura y la experiencia previa de los investigadores en la anotación de este dominio en particular. Los criterios pueden ser entendidos como definiciones específicas para la tarea.
+
+<br>
+
+>**Resumen de criterios**
+> 
+> - Criterios Base	
+> - Criterios Específicos	
+>   - **Criterio 1.** Si parece a burla, es ofensivo en este contexto	
+>   - **Criterio 2.** Ideologías de asociadas a género o etnia o religión, se considerará como grupo ideológico	
+>   - **Criterio 3.** Grupos o asociaciones reconocidos	
+>   - **Criterio 4.** Radical no es ofensivo, es descriptivo.	
+>   - **Criterio 5-** Los insultos solos no clasifican.	
+>   - **Criterio 6.** Anti-algo, depende del contexto.	
+>   - **Criterio 7.** Adjetivos solos no se consideran como grupos	
+>   - Criterios puntuales	
+<br/>

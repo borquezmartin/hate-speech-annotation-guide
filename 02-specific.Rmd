@@ -1,0 +1,73 @@
+# Criterios Específicos
+
+### Criterio 1. Si parece a burla, es ofensivo en este contexto
+
+Denominaciones que hagan referencia a un grupo, de una manera tal que se puedan entender en su mayoría como una burla, dado el contexto del dataset, se clasificaran como denominaciones ofensivas. Con base en este criterio se debe pensar que la denominación de grupo está mencionada por alguien que no pertenece a ese grupo. Más de una falta ortográfica en una denominación puede ser señal de burla. El riesgo de este criterio es la sobreinterpretación 
+
+Ejemplo de denominaciones ofensivas:
+“democrat baiters”: OD-Ideological Group
+“FeMiNIsT”: OD-Ideological Group
+
+Ejemplo de denominaciones no ofensivas:
+“Femin1st”: G-Ideological Group
+“misogynist”: 
+
+### Criterio 2. Ideologías de asociadas a género o etnia o religión, se considerará como grupo ideológico
+
+Ejemplo de denominaciones no ofensivas:
+“white nationalist”: G-Ideological Group
+“black lives matters”: G-Ideological Group
+“zionist”: G-Ideological Group
+
+
+
+### Criterio 3. Grupos o asociaciones reconocidos
+
+Las menciones a asociaciones de personas con claras tendencias políticas, religiosas o de género, deberán ser clasificadas de acuerdo a esa tendencia. Esto incluye abreviaciones famosas en el contexto de mensajes de odio.
+
+“Klan”: G-Ideological Gruop
+“SJW”: OD-Ideological Group
+
+
+### Criterio 4  Radical no es ofensivo, es descriptivo.
+
+Si un grupo es descrito solamente como radical aquello no se considera ofensivo, sino que descriptivo. Pero, otro tipo de palabras más derogatorias si pueden considerarse ofensivas como “crazy”...
+
+### Criterio 5. Los insultos solos no clasifican.
+
+Los insultos que no hagan referencia a un grupo específico sin contexto, no deben ser clasificados como denominaciones de grupo. A pesar de que algunos insultos tienen un origen discriminatorio hacia cierto grupo, otros simplemente se han transferido a cualquier contexto-
+Ejemplo insulto que no se clasifica:
+“Piece of shit”
+“Loser”
+“dickhead”
+
+Ejemplo de insulto que sí se clasifica;
+“fag”: OD-Sexual Orientation
+“incel”: 
+“political whore”: OD-Ideological-Group
+“degenerate”??
+“twat”??
+
+### Criterio 6. Anti-algo, depende del contexto.
+
+Los grupos denominados “anti” grupos ideológicos, se considerarán como otros grupos ideológicos. Sin embargo, los “anti” un grupo de personas, se considerará como ofensivo. La diferencia se basa en que un grupo puede oponerse en términos de ideas sobre otro, pero cuando esto hace referencia directa a personas, es una denominación de identidad que se caracteriza por ir en contra personas, lo que atenta con el sentido de dignidad humana. En este contexto, se entenderá la religión como parte de la identidad de la persona de manera distinta a la ideología, y más similar a la etnia o el género o orientación sexual.
+
+Ejemplo denominación no ofensiva
+Anti-facist, Anti-conservative, Anti-liberal: G-Ideological Group
+
+Ejemplo denominación ofensiva
+Anti-black, Anti-white, Anti-woman: OD-Ideological Group
+Anti-jew, Anti-muslums: OD-Ideological Group
+Anti-gay: OD-Ideological-Group
+
+### Criterio 7. Adjetivos solos no se consideran como grupos
+
+Ejemplo:
+“Fashy”: algo con tintes fascistas
+
+
+
+## Casos puntuales
+Aquí se documentarán ejemplos concretos donde no se aplican los criterios anteriores o bien, se define un nuevo criterio específico dado para la denominación.
+Fascist democrat
+capitalist

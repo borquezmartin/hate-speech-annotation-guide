@@ -1,0 +1,8 @@
+# Criterios Base
+
+Criterio base grupo:
+El span debe ser el ngrama más grande que describa un grupo de personas.
+
+Criterio base denominación ofensiva:
+El span debe ser el ngrama más grande que describa una denominación de grupos.
+

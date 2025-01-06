@@ -1,3 +1,14 @@
-down-the-rabbit-hole
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+introduction
+criterios-base
+criterios-específicos
+criterio-1.-si-parece-a-burla-es-ofensivo-en-este-contexto
+criterio-2.-ideologías-de-asociadas-a-género-o-etnia-o-religión-se-considerará-como-grupo-ideológico
+criterio-3.-grupos-o-asociaciones-reconocidos
+criterio-4-radical-no-es-ofensivo-es-descriptivo.
+criterio-5.-los-insultos-solos-no-clasifican.
+criterio-6.-anti-algo-depende-del-contexto.
+criterio-7.-adjetivos-solos-no-se-consideran-como-grupos
+criterios-puntuales
+section
+intro
+casos-puntuales
